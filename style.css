@@ -1,7 +1,7 @@
 .body {
   font-family: 'Open Sans', sans-serif;
 }
-.container-fluid {
+.pic-hight {
   width: 100%;
   height: 180vh;
 }
@@ -12,6 +12,31 @@
 }
 .bgmake-color {
   background-color: #f15b43;
+}
+
+.section-bg {
+  background-color: #fcf2eb;
+}
+.donateVitaminColor {
+  color: #263b5c;
+}
+.btn-ouline {
+  border: 2px solid #f15b43;
+  color: #f15b43;
+
+  z-index: 1;
+}
+.btn-ouline:hover {
+  background-color: #f15b43;
+  color: white;
+}
+.donate-btn {
+  color: white;
+}
+.donate-btn:hover {
+  background-color: white;
+  color: #f15b43;
+  border: 2px solid #f15b43;
 }
 
 @media screen and (max-width: 972px) {
