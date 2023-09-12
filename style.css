@@ -38,6 +38,12 @@
   color: #f15b43;
   border: 2px solid #f15b43;
 }
+.cards-bg {
+  background-color: #ebeff4;
+}
+.linke:hover {
+  color: #f15b43;
+}
 
 @media screen and (max-width: 972px) {
   .bg-image {
