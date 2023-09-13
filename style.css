@@ -44,6 +44,9 @@
 .linke:hover {
   color: #f15b43;
 }
+.orange-bg {
+  background-image: url('https://preview.colorlib.com/theme/charitee/assets/img/gallery/section-bg1.jpg');
+}
 
 @media screen and (max-width: 972px) {
   .bg-image {
